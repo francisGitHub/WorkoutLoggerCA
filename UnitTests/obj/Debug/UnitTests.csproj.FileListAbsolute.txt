@@ -1,0 +1,16 @@
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\WorkoutLoggerCA.exe
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\WorkoutLoggerCA.pdb
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\WorkoutLoggerCA.exe.config
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Francis\source\repos\WorkoutLoggerCA\UnitTests\obj\Debug\UnitTests.pdb

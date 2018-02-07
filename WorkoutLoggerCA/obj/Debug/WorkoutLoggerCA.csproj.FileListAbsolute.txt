@@ -1,0 +1,7 @@
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\bin\Debug\WorkoutLoggerCA.exe.config
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\bin\Debug\WorkoutLoggerCA.exe
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\bin\Debug\WorkoutLoggerCA.pdb
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\obj\Debug\WorkoutLoggerCA.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\obj\Debug\WorkoutLoggerCA.exe
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\obj\Debug\WorkoutLoggerCA.pdb
+C:\Users\Francis\source\repos\WorkoutLoggerCA\WorkoutLoggerCA\obj\Debug\WorkoutLoggerCA.csprojResolveAssemblyReference.cache
